@@ -1,4 +1,4 @@
-# it480-assignment3
+# IT480-Assignment3
 
 //* Navigate to this folder to run both */
 
